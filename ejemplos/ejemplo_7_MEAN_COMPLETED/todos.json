@@ -1,0 +1,22 @@
+[
+    {
+        "description" : "Buy milk",
+        "status" : false
+    },
+    {
+        "description" : "Buy eggs",
+        "status" : false
+    },
+    {
+        "description" : "Pay rent",
+        "status" : false
+    },
+    {
+        "description" : "Pay car",
+        "status" : false
+    },
+    {
+        "description" : "Be awesome!",
+        "status" : false
+    }
+]

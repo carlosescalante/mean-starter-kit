@@ -1,0 +1,59 @@
+<div class="jumbotron text-center">
+	<h1>Geek City</h1>
+
+    <hr>
+
+    <h2>Here are some users:</h2>
+    <h3>Current user: {{currentUser}}</h3>
+
+    <button type="button" ng-click="getUsersFromDB()">Get some users!</button>
+    <button type="button" ng-click="persistChanges()">Persist users collection!</button>
+    <select ng-options="user.id as user.name for user in users" data-ng-model="currentUser"></select>
+
+    <hr>
+    <form class="form-horizontal">
+        Name:
+        <input ng-model="users[currentUser].name" type="text" />
+
+        Age:
+        <input ng-model="users[currentUser].age" type="text" />
+
+        Company:
+        <input ng-model="users[currentUser].company" type="text" />
+        <br>
+
+        Phone:
+        <input ng-model="users[currentUser].phone" type="text" />
+
+        Email:
+        <input ng-model="users[currentUser].email" type="text" />
+    </form>
+    <hr>
+
+    <table class="table">
+        <thead>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Company</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>Friend(s)</th>
+        </thead>
+        <tbody>
+            <tr ng-repeat="user in users">
+                <td>{{user.name}}</td>
+                <td>{{user.age}}</td>
+                <td>{{user.company}}</td>
+                <td>{{user.phone}}</td>
+                <td>{{user.email}}</td>
+                <td>
+                    <ul data-ng-repeat="friend in user.friends">
+                        <li>{{friend.name}}</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!--<pre>{{ users | json }}</pre>-->
+</div>

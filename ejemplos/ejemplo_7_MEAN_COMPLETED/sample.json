@@ -1,0 +1,182 @@
+[
+    {
+        "id": 0,
+        "age": 24,
+        "name": "Gloria Wong",
+        "company": "GLOBOIL",
+        "email": "gloriawong@globoil.com",
+        "phone": "+1 (803) 467-3812",
+        "address": "610 Canda Avenue, Chautauqua, Tennessee, 523",
+        "about": "Tempor ipsum ipsum amet culpa mollit officia adipisicing ea ipsum mollit. Labore excepteur consectetur reprehenderit consectetur aute qui id. Eu labore commodo aliquip Lorem in pariatur quis excepteur nisi officia ut.\r\n",
+        "registered": "2014-03-19T10:19:02 +06:00",
+        "tags": [
+            "pariatur",
+            "elit",
+            "consectetur",
+            "dolore",
+            "deserunt",
+            "deserunt",
+            "aliquip"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Marla Dennis"
+            },
+            {
+                "id": 1,
+                "name": "Felicia Frederick"
+            },
+            {
+                "id": 2,
+                "name": "Ursula Tillman"
+            }
+        ],
+        "greeting": "Hello, Gloria Wong! You have 2 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 1,
+        "age": 37,
+        "name": "Deann Justice",
+        "company": "DIGIPRINT",
+        "email": "deannjustice@digiprint.com",
+        "phone": "+1 (973) 469-3029",
+        "address": "217 Hunts Lane, Hiko, Washington, 971",
+        "about": "Fugiat officia irure sunt quis consectetur. Reprehenderit labore exercitation cillum magna ullamco. Cupidatat velit enim in esse ad occaecat ea consequat do reprehenderit laborum laboris. Mollit pariatur fugiat sint pariatur eiusmod et nulla incididunt sint laboris reprehenderit.\r\n",
+        "registered": "2014-01-27T03:31:38 +06:00",
+        "tags": [
+            "ea",
+            "in",
+            "ex",
+            "officia",
+            "cillum",
+            "consectetur",
+            "elit"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Faulkner Hunt"
+            },
+            {
+                "id": 1,
+                "name": "Stephenson Huber"
+            },
+            {
+                "id": 2,
+                "name": "Carissa Simmons"
+            }
+        ],
+        "greeting": "Hello, Deann Justice! You have 6 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 2,
+        "age": 33,
+        "name": "Miranda Joseph",
+        "company": "EARGO",
+        "email": "mirandajoseph@eargo.com",
+        "phone": "+1 (812) 415-2048",
+        "address": "737 Aster Court, Silkworth, Texas, 4433",
+        "about": "Minim commodo nisi excepteur reprehenderit voluptate irure voluptate eiusmod nulla minim. Nulla ipsum do duis veniam duis ut consequat consectetur commodo aliqua. Labore eu ut nostrud velit minim. Duis esse ipsum elit ullamco sit sint sunt duis laboris commodo. Non laborum ex do in voluptate qui minim occaecat ea aute ullamco exercitation. Non fugiat deserunt dolor deserunt minim tempor eiusmod commodo consequat adipisicing. Minim voluptate incididunt consectetur elit laborum aute.\r\n",
+        "registered": "2014-01-27T01:28:57 +06:00",
+        "tags": [
+            "adipisicing",
+            "laborum",
+            "eiusmod",
+            "et",
+            "incididunt",
+            "eiusmod",
+            "reprehenderit"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Stefanie Richardson"
+            },
+            {
+                "id": 1,
+                "name": "Lindsay Cantrell"
+            },
+            {
+                "id": 2,
+                "name": "Wise Huff"
+            }
+        ],
+        "greeting": "Hello, Miranda Joseph! You have 2 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "id": 3,
+        "age": 38,
+        "name": "Cook Curry",
+        "company": "CEPRENE",
+        "email": "cookcurry@ceprene.com",
+        "phone": "+1 (831) 541-3095",
+        "address": "671 Nassau Avenue, Rockbridge, Florida, 1831",
+        "about": "Ullamco dolore nisi nisi et consectetur proident labore. Veniam aliqua esse labore Lorem ad labore quis. Eu et officia Lorem do. Ullamco quis incididunt dolor fugiat incididunt anim proident quis ipsum id nulla et voluptate deserunt. Eiusmod magna ea excepteur non ad dolor proident tempor amet consectetur quis. Ullamco esse exercitation tempor qui aliquip culpa est mollit labore sit commodo enim aliquip. Cupidatat enim eiusmod qui aliquip ex magna dolore velit fugiat.\r\n",
+        "registered": "2014-02-07T10:34:36 +06:00",
+        "tags": [
+            "cillum",
+            "labore",
+            "eiusmod",
+            "ad",
+            "amet",
+            "et",
+            "adipisicing"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Black Velazquez"
+            },
+            {
+                "id": 1,
+                "name": "Mcclure Logan"
+            },
+            {
+                "id": 2,
+                "name": "Golden Bird"
+            }
+        ],
+        "greeting": "Hello, Cook Curry! You have 1 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": 4,
+        "age": 34,
+        "name": "Nellie Witt",
+        "company": "SINGAVERA",
+        "email": "nelliewitt@singavera.com",
+        "phone": "+1 (863) 414-2005",
+        "address": "878 Cozine Avenue, Caledonia, Hawaii, 3029",
+        "about": "Anim et exercitation nisi Lorem quis et ea ad. Voluptate consectetur aliqua esse consectetur consectetur anim. Proident voluptate aliquip qui eiusmod ullamco. Culpa ullamco exercitation officia velit do Lorem voluptate laboris duis. Ut proident ea ad reprehenderit pariatur mollit commodo tempor velit ad proident occaecat.\r\n",
+        "registered": "2014-02-08T00:02:26 +06:00",
+        "tags": [
+            "irure",
+            "ipsum",
+            "et",
+            "laborum",
+            "id",
+            "sit",
+            "quis"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Freda Vaughn"
+            },
+            {
+                "id": 1,
+                "name": "Kayla Wallace"
+            },
+            {
+                "id": 2,
+                "name": "Elma Morrow"
+            }
+        ],
+        "greeting": "Hello, Nellie Witt! You have 6 unread messages.",
+        "favoriteFruit": "strawberry"
+    }
+]

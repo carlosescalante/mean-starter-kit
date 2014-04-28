@@ -1,0 +1,63 @@
+[
+    {
+        "id": 0,
+        "age": 23,
+        "name": "Hernandez Daniels",
+        "gender": "male",
+        "company": "DATAGENE",
+        "email": "hernandezdaniels@datagene.com",
+        "address": "219 Commerce Street, Idledale, Iowa, 7813",
+        "roles": ["Administrator"],
+        "jugadores" : [a,b,c,,,,]
+    },
+    {
+        "id": 1,
+        "age": 32,
+        "name": "Dejesus Mercado",
+        "gender": "male",
+        "company": "KONGENE",
+        "email": "dejesusmercado@kongene.com",
+        "address": "529 Malta Street, Lodoga, Utah, 1032",
+        "roles": ["Manager", "Developer"]
+    },
+    {
+        "id": 2,
+        "age": 30,
+        "name": "Adriana Deleon",
+        "gender": "female",
+        "company": "BULLJUICE",
+        "email": "adrianadeleon@bulljuice.com",
+        "address": "841 Brooklyn Road, Oberlin, Wisconsin, 2581",
+        "roles": ["Developer"]
+    },
+    {
+        "id": 3,
+        "age": 35,
+        "name": "Hattie Weber",
+        "gender": "female",
+        "company": "KATAKANA",
+        "email": "hattieweber@katakana.com",
+        "address": "197 Lott Street, Gorst, Louisiana, 3625",
+        "roles": ["Manager"]
+    },
+    {
+        "id": 4,
+        "age": 33,
+        "name": "Erika Sweet",
+        "gender": "female",
+        "company": "TUBESYS",
+        "email": "erikasweet@tubesys.com",
+        "address": "575 Nelson Street, Grantville, Washington, 4026",
+        "roles": ["Developer"]
+    },
+    {
+        "id": 5,
+        "age": 20,
+        "name": "Gwen Price",
+        "gender": "female",
+        "company": "QABOOS",
+        "email": "gwenprice@qaboos.com",
+        "address": "731 Tudor Terrace, Carrsville, Texas, 7256",
+        "roles": ["Developer"]
+    }
+]
