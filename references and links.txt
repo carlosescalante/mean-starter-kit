@@ -1,0 +1,7 @@
+MEAN training references:
+
+MEAN Stack boilerplate repo:
+https://github.com/scotch-io/starter-node-angular
+
+Tutorials and resources:
+http://scotch.io/bar-talk/setting-up-a-mean-stack-single-page-application

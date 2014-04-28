@@ -1,0 +1,13 @@
+MEAN Stack Single Page Application Starter
+This is a repo for a starter application for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application.
+
+Installation
+
+Download the repository
+Install npm modules: npm install
+Install bower dependencies bower install
+Start up the server: node server.js
+View in browser at http://localhost:8080
+Use this starter kit to build any MEAN stack application you like.
+
+https://github.com/scotch-io/starter-node-angular
